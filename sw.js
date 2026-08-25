@@ -2,7 +2,7 @@
    ?ŒìŠ¤??ì¤‘ì—??ê²Œì„ ?Œì¼???ì£¼ ê°ˆì•„?¼ìš°ë¯€ë¡? HTML?€ '?¤íŠ¸?Œí¬ ?°ì„ '?¼ë¡œ ê°€?¸ì˜¨??
    ê·¸ë˜???ˆë¡œ ?¬ë¦° ë²„ì „??ë°”ë¡œ ë°˜ì˜?œë‹¤. ?¤í”„?¼ì¸?´ë©´ ìºì‹œë¡??¨ì–´ì§„ë‹¤.
    ?„ì´ì½˜Â·ë§¤?ˆí˜?¤íŠ¸??????ë°”ë€Œë?ë¡?'ìºì‹œ ?°ì„ '. */
-const CACHE = 'lastcore-hack-v1';
+const CACHE = 'lastcore-hack-v2';
 const CORE  = ['./', './index.html', './manifest.webmanifest',
                './icon-192.png', './icon-512.png', './apple-touch-icon.png',
                './assets/map-top.png'];
